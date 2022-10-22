@@ -1,2 +1,2 @@
 # POA_PoopPicker
-Prpojet de POA (Anya AKNINE, Abdellah HARTI, Valentin ROLLIN, Lucas ROUQUAIROL)
+Projet de POA (Anya AKNINE, Abdellah HARTI, Valentin ROLLIN, Lucas ROUQUAIROL)
